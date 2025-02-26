@@ -57,15 +57,4 @@ The AI-Powered Tax Assistant is a Chrome extension designed to simplify the proc
 - **Saves time**: Prefilling and guided assistance streamline the process.
 - **Educates users**: Provides insights on tax benefits and deductions.
 
-## Future Enhancements
-- **AI Chatbot** for real-time tax query resolution.
-- **Integration with UPI** for direct tax payments.
-- **Multi-language support** to cater to diverse users.
-
-## Contributors
-- **Gouri Verma** (Project Lead)
-- [Your Team Members]
-
-## License
-This project is open-source and available under the MIT License.
 
